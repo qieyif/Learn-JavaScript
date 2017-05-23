@@ -1,2 +1,8 @@
-# Relearn-JavaScript
-重新学习js，你一定会爱上她 的，请相信，她太灵活了，无所不能！
+# 学习JavaScript
+
+## 目前JS主要分为以下几大块，可以分块进行集中学习：
+
+- ES5
+- DOM
+- BOM
+- ES6又称作ECMAScript2015
