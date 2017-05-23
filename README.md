@@ -1,4 +1,4 @@
-# 学习JavaScript
+# JavaScript教程
 
 ## 目前JS主要分为以下几大块，可以分块进行集中学习：
 
